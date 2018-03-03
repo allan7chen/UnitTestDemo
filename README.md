@@ -6,7 +6,7 @@
 
 In my case which Android Studio's version is 3.0.1, dependency declared like this:
 
-_testCompile 'junit:junit:4.12'
+_testCompile 'junit:junit:4.12'_
 
 _testCompile "org.robolectric:robolectric:3.7.1"_
 
