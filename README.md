@@ -1,3 +1,7 @@
+Index
+
+[TOC]
+
 # UnitTestDemo
 
 **This project is just testing the Robolectric unit test framework.**
